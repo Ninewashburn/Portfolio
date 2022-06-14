@@ -35,7 +35,7 @@ typewriter
 .changeDelay(20)
 .typeString('Je suis Renaud Meynadier')
 .pauseFor(300)
-.typeString('<strong>, Développeur Full-Stack </strong> !')
+.typeString('<strong>, Développeur junior Full-Stack </strong> !')
 .pauseFor(1000)
 .deleteChars(13)
 .typeString('<span style="color: #27ae60;"> Symfony</span> !')
