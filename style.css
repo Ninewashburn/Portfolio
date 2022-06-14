@@ -209,7 +209,7 @@ body {
 /* ------------------ Accueil ---------------- */
 
 .accueil {
-    background: url(ressources/accueil.jpg);
+    background: url(ressources/laptop.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: right;
@@ -671,7 +671,7 @@ h1 {
     height: 400px;
     background: #f0f2f0;
     color: #333;
-    transition: transform 0.3 ease-out;
+    transition: transform 0.3s ease-out;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 
@@ -830,21 +830,21 @@ h1 {
 }
 
 .b1 {
-    width: 90%;
+    width: 75%;
 }
 
 .b2 {
-    width: 80%;
-    background: rgb(243, 237, 146);
-}
-
-.b3 {
     width: 70%;
     background: rgb(243, 237, 146);
 }
 
+.b3 {
+    width: 60%;
+    background: rgb(243, 237, 146);
+}
+
 .b4 {
-    width: 75%;
+    width: 70%;
 }
 
 .b5 {
