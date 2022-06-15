@@ -209,7 +209,7 @@ body {
 /* ------------------ Accueil ---------------- */
 
 .accueil {
-    background: url(ressources/laptop.jpg);
+    background: url(ressources/laptop_accueil.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: right;
