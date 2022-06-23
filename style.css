@@ -534,6 +534,11 @@ h1 {
     text-align: justify;
 }
 
+.pres-gauche a {
+    text-decoration: none;
+    color: #fed400;
+}
+
 .pres-droite {
     width: 600px;
     flex-shrink: 0;
