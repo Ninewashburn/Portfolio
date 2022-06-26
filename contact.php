@@ -24,6 +24,8 @@ if (isset($_POST['envoyer'])) {
                     $Message = htmlentities($_POST['message'], ENT_QUOTES, "UTF-8");
                     if (mail($VotreAdresseMail, $Nom, nl2br($Message), $Entetes)) {
                         header("location: index.html");
+                        ?>
+                        <div>Message envoyé !</div> <?php
                     } else {
                         echo "Une erreur est survenue, le mail n'a pas été envoyé";
                     }
@@ -32,3 +34,4 @@ if (isset($_POST['envoyer'])) {
         }
     }
 }
+?>
