@@ -1,6 +1,6 @@
 # Portfolio Meynadier Renaud
 
-Ceci est ma première version d'un portfolio de présentation en ligne.
+Ceci est mon portfolio de présentation en ligne.
 ![readme](https://github.com/Ninewashburn/Portfolio/assets/79519650/488250fe-35a2-465e-81fa-5623dc0a52fd)
 
 Ce portfolio sera évolutif au fil de mes projets. Il à été réalisé grâce à un tutoriel sur Udemy.
